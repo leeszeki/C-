@@ -1,0 +1,5 @@
+﻿D:\嵌入式\软件\VS2017\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(淘宝购物系统.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  includes.c
+  main.c
+  正在生成代码...
+  淘宝购物系统.vcxproj -> C:\Users\LEE SZE KI\Desktop\招新\2019招新\C考核\淘宝购物系统\Debug\购物系统.exe
